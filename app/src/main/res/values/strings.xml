@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Room</string>
+    <string name="apptittle">Healing App</string>
+    <string name="tittle">Form Pendaftaran Konsultasi</string>
+    <string name="nik">Masukkan NIK</string>
+    <string name="nama">Masukkan Nama Lengkap</string>
+    <string name="tl_nik">NIK</string>
+    <string name="tl_nama">Nama Lengkap</string>
+    <string name="keluhan">Keluhan</string>
+    <string name="halu">Halusinasi</string>
+    <string name="stres">Stress</string>
+    <string name="makan">Gangguan Makan</string>
+    <string name="tidur">Susah Tidur</string>
+    <string name="jk">Jenis Kelamin</string>
+    <string name="female">Perempuan</string>
+    <string name="male">Laki - Laki</string>
+    <string name="presentaseKecemasan">Persentase Kecemasan</string>
+    <string name="reset">RESET</string>
+    <string name="submit">SUBMIT</string>
+    <string name="sukses">Success!</string>
+    <string name="isi_alert">Data registrasi Anda berhasil dikirim dengan rincian sebagai berikut.</string>
+    <string name="rincian">Rincian Registrasi</string>
+    <string name="list">List Data Lainnya</string>
+</resources>
